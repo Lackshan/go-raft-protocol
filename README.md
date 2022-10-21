@@ -1,0 +1,3 @@
+# RAFT consensus protocol in Go
+Lorem ipsum dolor sit amet...
+
